@@ -6,4 +6,4 @@ After doing that, I would just multiply the hours by my hourly rate.
 
 
 
-![Hours_Calculator](demo/demo.gif)
+![Hours_Calculator](gif/demo.gif)
